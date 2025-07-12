@@ -1,0 +1,6 @@
+transformers
+torch
+telebot
+bitsandbytes
+accelerate
+peft
